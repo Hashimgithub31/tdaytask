@@ -11,6 +11,11 @@ public class StateDetails {
 		System.out.println("Bihar, up, mp, etc");
 	}
 	
+	private void chennai() {
+		System.out.println("capital of tamilnadu");
+	}
+	
+	
 	public static void main(String[] args) {
 		StateDetails s=new StateDetails();
 		s.southIndia();
