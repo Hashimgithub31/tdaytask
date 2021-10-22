@@ -11,6 +11,10 @@ public class StateDetails {
 		System.out.println("Bihar, up, mp, etc");
 	}
 	
+	private void capitalCity() {
+		System.out.println("capital city is Delhi");
+	}
+	
 	public static void main(String[] args) {
 		StateDetails s=new StateDetails();
 		s.southIndia();
